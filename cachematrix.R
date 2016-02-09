@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+# The First function makeCacheMatrix , receive a Matrix as an Argument and contain functions that:
+#set the value of the matrix
+#get the value of the Matrix
+#set the value of the Inverse Matrix
+#get the value of the Inverse Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         
